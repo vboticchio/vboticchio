@@ -15,7 +15,7 @@ Graduações e linha de pesquisa
 
 ## Projetos em destaque
 - Sistema de Análise de Falhas
-  https://github.com/victorboticchio/maintenance-text-analytics
+  https://github.com/vboticchio/maintenance-text-analytics
 - Otimização de setup
 - MVP App de Manutenção Inteligente
 
