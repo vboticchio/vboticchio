@@ -1,4 +1,4 @@
-# Olá, eu sou Victor 👋
+# Olá, eu sou Victor 
 
 Engenheiro focado em:
 - Automação Industrial
