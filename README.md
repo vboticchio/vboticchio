@@ -15,10 +15,10 @@ Graduações e linha de pesquisa
 
 ## Projetos em destaque
 - Sistema de Análise de Falhas
-- 📊 Dashboard OEE
-- 📱 MVP App de Manutenção Inteligente
+- Otimização de setup
+- MVP App de Manutenção Inteligente
 
-## 📫 Contato
+##  Contato
 - LinkedIn: www.linkedin.com/in/victorboticchio
 
 - Email: vboticchio@gmail.com
